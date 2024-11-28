@@ -1,0 +1,5 @@
+print('hello word')
+print('hi guys')
+print('my name is maria eduarda')
+print('you speak inglish')
+print('slumber party')
